@@ -7,5 +7,6 @@
   <modules>
   	<module>browzer_model</module>
   	<module>browzer_repository</module>
+  	<module>browzer_service</module>
   </modules>
 </project>
