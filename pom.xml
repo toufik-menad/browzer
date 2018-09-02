@@ -9,5 +9,6 @@
   	<module>browzer_repository</module>
   	<module>browzer_service</module>
   	<module>browzer_ui</module>
+  	<module>browzer_utils</module>
   </modules>
 </project>
