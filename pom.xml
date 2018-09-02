@@ -4,4 +4,7 @@
   <artifactId>browzer</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>browzer_model</module>
+  </modules>
 </project>
