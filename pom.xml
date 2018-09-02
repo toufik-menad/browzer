@@ -10,5 +10,6 @@
   	<module>browzer_service</module>
   	<module>browzer_ui</module>
   	<module>browzer_utils</module>
+  	<module>browzer_web</module>
   </modules>
 </project>
