@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>browzer_model</module>
+  	<module>browzer_repository</module>
   </modules>
 </project>
